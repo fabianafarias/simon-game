@@ -1,4 +1,4 @@
-#simon-game
+# simon-game
 
-##A game developed with HTML and JS.
+## A game developed with HTML and JS.
 
